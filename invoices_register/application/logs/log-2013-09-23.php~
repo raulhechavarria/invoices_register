@@ -1,0 +1,347 @@
+ERROR - 2013-09-23 16:04:27 --> Severity: Notice  --> Undefined property: RestProjects::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]1
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]1
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]4500
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]2
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]3
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]4
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]50
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]5
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]30
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]6
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]7
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]10
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]8
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]9
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]10
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]10
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]11
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]12
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]13
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]14
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:04:54 --> $data["product_id"]15
+ERROR - 2013-09-23 16:04:54 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:04:54 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:04:54 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:11:04 --> Severity: Notice  --> Undefined property: RestBanks::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:04 --> Severity: Notice  --> Undefined property: RestBillTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:04 --> Severity: Notice  --> Undefined property: RestBillsCoperative::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:04 --> Severity: Notice  --> Undefined property: RestBillsCompany::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:04 --> Severity: Notice  --> Undefined property: RestCosts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:04 --> Severity: Notice  --> Undefined property: RestCostCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:04 --> Severity: Notice  --> Undefined property: RestCostTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:04 --> Severity: Notice  --> Undefined property: RestEntities::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:04 --> Severity: Notice  --> Undefined property: RestEntityClients::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:05 --> Severity: Notice  --> Undefined property: RestEntityProviders::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:05 --> Severity: Notice  --> Undefined property: RestEntityTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:05 --> Severity: Notice  --> Undefined property: RestInvestments::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:05 --> Severity: Notice  --> Undefined property: RestInvestmentAmounts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:05 --> Severity: Notice  --> Undefined property: RestInvestmentEquipments::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:05 --> Severity: Notice  --> Undefined property: RestEntityContacts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:05 --> Severity: Notice  --> Undefined property: RestInvestmentCivils::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:05 --> Severity: Notice  --> Undefined property: RestInvestmentProductions::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestInvestmentSourceAmounts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestInvestmentTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestKindsOfProperty::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestMunicipalities::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestMeasuringUnits::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestPeriods::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestProductionDestinies::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestProductions::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestSupplies::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestResultElements::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestProjects::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestProvinces::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestProduct::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestResultCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:06 --> Severity: Notice  --> Undefined property: RestSectors::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:07 --> Severity: Notice  --> Undefined property: RestUsers::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:11:16 --> Severity: Notice  --> Undefined property: RestProjects::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]1
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]1
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]4500
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]2
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]3
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]4
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]50
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]5
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]30
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]6
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]7
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]10
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]8
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]9
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]10
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]10
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]11
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]12
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]13
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]14
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:12:31 --> $data["product_id"]15
+ERROR - 2013-09-23 16:12:31 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:12:31 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:12:31 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestBanks::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestBillTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestBillsCompany::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestBillsCoperative::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestCostCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestCosts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestCostTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestEntityProviders::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestEntities::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestInvestmentAmounts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestEntityContacts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestEntityClients::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestEntityTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestInvestments::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestInvestmentEquipments::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestInvestmentProductions::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:20 --> Severity: Notice  --> Undefined property: RestInvestmentCivils::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestMunicipalities::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestInvestmentSourceAmounts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestKindsOfProperty::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestInvestmentTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestPeriods::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestMeasuringUnits::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestProductions::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestProduct::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestResultCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestProductionDestinies::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestProvinces::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestProjects::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestResultElements::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestSectors::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestSupplies::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:17:21 --> Severity: Notice  --> Undefined property: RestUsers::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestBills::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestCostState::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestCostCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestCosts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestAuxiliariesMaterials::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestBillTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestFixedAssetsDeprecations::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestCostWForces::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestEnergeticCarriers::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestCostTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestCostFADeprecations::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestCostECarriers::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:13 --> Severity: Notice  --> Undefined property: RestGrowingMarket::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestGrowingTax::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestFixedAssetsSales::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestMeasuringUnits::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestOthersSales::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestProduct::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestProductDemandOddYear::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestProductions::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestProductElasticity::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestProductDemandEvenYear::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestProductionStructure::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestResultState::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestResultElements::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestResultCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestRawsMaterials::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestSectors::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestSituationState::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestWorkForceCosts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:14 --> Severity: Notice  --> Undefined property: RestSupplies::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:27 --> Severity: Notice  --> Undefined property: RestProductionStructure::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestBillTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestBillsCompany::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestCostCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestBanks::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestCosts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestBillsCoperative::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestEntities::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestEntityClients::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestEntityProviders::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestCostTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestEntityContacts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestEntityTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestInvestmentProductions::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestInvestments::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestInvestmentAmounts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestInvestmentEquipments::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestInvestmentCivils::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestInvestmentTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:45 --> Severity: Notice  --> Undefined property: RestInvestmentSourceAmounts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestProductions::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestMunicipalities::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestPeriods::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestKindsOfProperty::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestMeasuringUnits::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestProduct::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestProjects::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestSupplies::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestResultElements::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestProvinces::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestResultCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestProductionDestinies::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestSectors::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:18:46 --> Severity: Notice  --> Undefined property: RestUsers::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:25:36 --> Severity: Notice  --> Undefined property: RestProjects::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]1
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]1
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]4500
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]2
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]3
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]4
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]50
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]5
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]30
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]6
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]7
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]10
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]8
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]40
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]9
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]8
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]10
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]10
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]11
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]12
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]13
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]14
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:26:37 --> $data["product_id"]15
+ERROR - 2013-09-23 16:26:37 --> $data["measuring_unit_id"]10
+ERROR - 2013-09-23 16:26:37 --> $data["investment_production_quantity_1"]0
+ERROR - 2013-09-23 16:26:37 --> $production->destiny_category_id.3
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestBanks::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestBillTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestBillsCompany::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestCosts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestCostCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestBillsCoperative::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestEntities::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestEntityClients::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestCostTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestEntityContacts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestEntityProviders::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestEntityTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestInvestmentAmounts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestInvestments::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestInvestmentEquipments::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestInvestmentProductions::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestInvestmentCivils::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestInvestmentSourceAmounts::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestMunicipalities::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:06 --> Severity: Notice  --> Undefined property: RestMeasuringUnits::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestInvestmentTypes::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestKindsOfProperty::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestProductionDestinies::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestProduct::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestPeriods::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestProvinces::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestProductions::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestSupplies::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestProjects::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestResultCategories::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestResultElements::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestSectors::$db /var/www/feasibility/application/libraries/REST_Controller.php 223
+ERROR - 2013-09-23 16:28:07 --> Severity: Notice  --> Undefined property: RestUsers::$db /var/www/feasibility/application/libraries/REST_Controller.php 223

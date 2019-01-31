@@ -1,0 +1,13 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-12-22 11:08:19 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\rentability\application\controllers\restcosts.php 62
+ERROR - 2013-12-22 11:08:19 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\rentability\application\controllers\restcosts.php 63
+ERROR - 2013-12-22 11:08:19 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\rentability\system\core\Exceptions.php:185) C:\xampp\htdocs\rentability\application\libraries\REST_Controller.php 391
+ERROR - 2013-12-22 11:08:19 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\rentability\system\core\Exceptions.php:185) C:\xampp\htdocs\rentability\application\libraries\REST_Controller.php 403
+ERROR - 2013-12-22 11:08:19 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\rentability\system\core\Exceptions.php:185) C:\xampp\htdocs\rentability\application\libraries\REST_Controller.php 404
+ERROR - 2013-12-22 11:08:19 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\rentability\system\core\Exceptions.php:185) C:\xampp\htdocs\rentability\application\libraries\REST_Controller.php 412
+ERROR - 2013-12-22 11:53:50 --> Severity: Notice  --> Undefined property:  stdClass::$costcenter_id C:\xampp\htdocs\rentability\application\controllers\restcostcenters.php 63
+ERROR - 2013-12-22 11:53:50 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\rentability\system\core\Exceptions.php:185) C:\xampp\htdocs\rentability\application\libraries\REST_Controller.php 391
+ERROR - 2013-12-22 11:53:50 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\rentability\system\core\Exceptions.php:185) C:\xampp\htdocs\rentability\application\libraries\REST_Controller.php 403
+ERROR - 2013-12-22 11:53:50 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\rentability\system\core\Exceptions.php:185) C:\xampp\htdocs\rentability\application\libraries\REST_Controller.php 404
+ERROR - 2013-12-22 11:53:50 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\rentability\system\core\Exceptions.php:185) C:\xampp\htdocs\rentability\application\libraries\REST_Controller.php 412

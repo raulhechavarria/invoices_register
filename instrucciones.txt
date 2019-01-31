@@ -1,0 +1,11 @@
+C:\Users\usuario\Desktop\server2go\htdocs\invoices_register\application\controllers\
+C:\Users\usuario\Desktop\server2go\htdocs\invoices_register\application\models\
+C:\Users\usuario\Desktop\server2go\htdocs\invoices_register\application\config\
+
+
+config
+database
+autoload
+$autoload['libraries'] = array('database','pdf','session', 'encrypt');
+C:\Users\usuario\Desktop\server2go\htdocs\invoices_register\application\views\
+C:\Users\usuario\Desktop\server2go\htdocs\invoices_register\assets\javascripts\application\
